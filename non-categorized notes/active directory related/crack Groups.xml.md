@@ -1,0 +1,4 @@
+
+```powershell
+gpp-decrypt <HASH>
+```
