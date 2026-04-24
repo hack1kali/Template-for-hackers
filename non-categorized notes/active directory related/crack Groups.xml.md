@@ -1,4 +1,0 @@
-
-```powershell
-gpp-decrypt <HASH>
-```
